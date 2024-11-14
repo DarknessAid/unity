@@ -1,0 +1,4 @@
+repository "LightnessGame@DarkAid@cloud"
+  path "/"
+    br "/main"
+    co "/main"
